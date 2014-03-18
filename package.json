@@ -1,6 +1,6 @@
 {
     "name": "gulp-hsp-compiler",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository": {
         "type": "git",
         "url": "https://github.com/PK1A/gulp-hsp-compiler.git"
@@ -9,7 +9,7 @@
         "url": "https://github.com/PK1A/gulp-hsp-compilerp/issues"
     },
     "homepage": "https://github.com/PK1A/gulp-hsp-compiler",
-    "devDependencies": {
+    "dependencies": {
         "gulp": "~3.5.6",
         "hashspace": "*",
         "through2": "~0.4.1",
