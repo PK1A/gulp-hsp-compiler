@@ -9,6 +9,9 @@
         "url": "https://github.com/PK1A/gulp-hsp-compilerp/issues"
     },
     "homepage": "https://github.com/PK1A/gulp-hsp-compiler",
+    "keywords": [
+        "gulpplugin"
+    ],
     "dependencies": {
         "through2": "~0.4.1",
         "gulp-util": "*"
