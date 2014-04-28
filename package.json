@@ -10,9 +10,10 @@
     },
     "homepage": "https://github.com/PK1A/gulp-hsp-compiler",
     "dependencies": {
-        "gulp": "~3.5.6",
-        "hashspace": "*",
         "through2": "~0.4.1",
-        "gulp-util": "~2.2.14"
+        "gulp-util": "*"
+    },
+    "peerDependencies": {
+        "hashspace": "*"
     }
 }
